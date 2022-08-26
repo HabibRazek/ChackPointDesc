@@ -1,0 +1,5 @@
+it is an application in which the user can pick the category,
+ level of difficulty, the type of questions and the amount as well.
+ When the user picks his prefered choices, the questions pop up as multiple questions or True/False questions depending on his preference.
+ From the API we can find out wether the reponses are correct or not and the player's score will adjust.
+ When the player finishes all the questions, the score will be displayed on the screen and a button to restart the game will also be available.
